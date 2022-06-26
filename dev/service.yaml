@@ -3,8 +3,6 @@ kind: Service
 metadata:
   name: myapp-service
 spec:
-<<<<<<< HEAD
-  type: LoadBalancer
 =======
   #ClusterIP: None
   type: LoadBalancer
